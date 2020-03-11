@@ -1,3 +1,5 @@
+React project that is using openweathermap public API for getting data about weather.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
